@@ -2,7 +2,6 @@
 
 Console.WriteLine("Let's roll some dice, baby!");
 Console.WriteLine("---------------------------");
-
 for (int i = 0; i < 10; i++)
 {
     Die die1 = Roll();
